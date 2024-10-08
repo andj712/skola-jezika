@@ -1,0 +1,84 @@
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\bin\Debug\Client.exe.config
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\bin\Debug\Client.exe
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\bin\Debug\Client.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\bin\Debug\Common.dll
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\bin\Debug\Common.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.FrmMain.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCAddPerson.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.exe
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Client\obj\Debug\Client.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Client\bin\Debug\Client.exe.config
+C:\Users\student2\Downloads\vezbe09sreda\Client\bin\Debug\Client.exe
+C:\Users\student2\Downloads\vezbe09sreda\Client\bin\Debug\Client.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Client\bin\Debug\Common.dll
+C:\Users\student2\Downloads\vezbe09sreda\Client\bin\Debug\Common.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.FrmMain.resources
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCAddPerson.resources
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.exe
+C:\Users\student2\Downloads\vezbe09sreda\Client\obj\Debug\Client.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\bin\Debug\Client.exe.config
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\bin\Debug\Client.exe
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\bin\Debug\Client.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\bin\Debug\Common.dll
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\bin\Debug\Common.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.FrmMain.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCAddPerson.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.exe
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Client\obj\Debug\Client.pdb
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\bin\Debug\Client.exe.config
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\bin\Debug\Client.exe
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\bin\Debug\Client.pdb
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\bin\Debug\Common.dll
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\bin\Debug\Common.pdb
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.FrmMain.resources
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCAddPerson.resources
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.exe
+C:\Users\Tatjana Bailovic\Downloads\vezbe09sreda _ispravka\vezbe09sreda\Client\obj\Debug\Client.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\bin\Debug\Client.exe.config
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\bin\Debug\Client.exe
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\bin\Debug\Client.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\bin\Debug\Common.dll
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\bin\Debug\Common.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.FrmLogin.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.FrmMain.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.FrmRegistracija.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.exe
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCKurs.UCPretraziKurseve.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCKursevi.UCKurs.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCGrupa.UCGrupa.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCGrupa.UCRaspored.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Client\obj\Debug\Client.UserControls.UCGrupa.UCIzmenaGrupe.resources

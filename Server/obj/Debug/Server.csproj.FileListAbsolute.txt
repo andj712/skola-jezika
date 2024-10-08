@@ -1,0 +1,63 @@
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\Server.exe.config
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\Server.exe
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\Server.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.exe
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\Common.dll
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\DBBroker.dll
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\Common.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\bin\Debug\DBBroker.pdb
+C:\Users\Tatjana Bailovic\source\repos\vezbe09sreda\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\Server.exe.config
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\Server.exe
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\Server.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\Common.dll
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\DBBroker.dll
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\Common.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Server\bin\Debug\DBBroker.pdb
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.exe
+C:\Users\student2\Downloads\vezbe09sreda\Server\obj\Debug\Server.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\Server.exe.config
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\Server.exe
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\Server.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\Common.dll
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\DBBroker.dll
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\Common.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\bin\Debug\DBBroker.pdb
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.exe
+C:\Users\student2\Desktop\vezbe09sreda (4)\vezbe09sreda\Server\obj\Debug\Server.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\Server.exe.config
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\Server.exe
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\Server.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\Common.dll
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\DBBroker.dll
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\Common.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\bin\Debug\DBBroker.pdb
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.exe
+C:\Users\andj7\OneDrive\Radna površina\PS SEMINARSKI\konacna_arhitektura\vezbe09sreda\Server\obj\Debug\Server.pdb
